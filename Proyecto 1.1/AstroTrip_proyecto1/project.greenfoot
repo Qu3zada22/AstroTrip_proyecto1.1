@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.MyWorld.image=space1.jpg
-editor.fx.0.height=689
-editor.fx.0.width=800
-editor.fx.0.x=283
-editor.fx.0.y=25
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 height=400
 package.numDependencies=0
 package.numTargets=1
@@ -30,5 +30,5 @@ target1.x=0
 target1.y=0
 version=3.0.0
 width=701
-xPosition=333
-yPosition=121
+xPosition=130
+yPosition=79
